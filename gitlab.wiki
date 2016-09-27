@@ -1,2 +1,2 @@
-##### a wiki for gitlab
+#wiki for gitlab
 1. 系统版本 centos
